@@ -9,4 +9,4 @@ NhQuestRPG é um jogo de RPG e Roguelike desenvolvido em C, inspirado no clássi
 
 ## Sobre
 
-**NetHack** é um dos jogos mais antigos do gênero RPG e Roguelike, lançado em 1987 como uma evolução do jogo Hack de 1985. Este gênero é conhecido por suas complexas mecânicas de jogo, aleatoriedade e alta dificuldade, proporcionando uma experiência única a cada partida. NhQuestRPG visa capturar a essência desse clássico enquanto adiciona suas próprias características inovadoras.
+**NetHack** é um dos jogos mais antigos do gênero RPG e Roguelike, lançado em 1987 como uma evolução do jogo Hack de 1985. Este gênero é conhecido por suas complexas mecânicas de jogo, aleatoriedade e alta dificuldade, proporcionando uma experiência única a cada partida. NhQuestRPG visa capturar a essência desse clássico.
